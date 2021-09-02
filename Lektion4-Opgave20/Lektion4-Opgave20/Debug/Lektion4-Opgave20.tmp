@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32A"</DEVICE>
+ <WORKING_DIR>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion4-Opgave20\Lektion4-Opgave20\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion4-Opgave20\Lektion4-Opgave20\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32adef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\M32ADEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion4-Opgave20\Lektion4-Opgave20\Debug\Lektion4-Opgave20.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lektion4-Opgave20.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lektion4-Opgave20.map</FILE>
+  <FILE>Lektion4-Opgave20.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INI><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion4-Opgave20\Lektion4-Opgave20\main.asm</FILE><LINE>19</LINE></INI>
+  <START><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion4-Opgave20\Lektion4-Opgave20\main.asm</FILE><LINE>44</LINE></START>
+  <DIVIDE><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion4-Opgave20\Lektion4-Opgave20\main.asm</FILE><LINE>79</LINE></DIVIDE>
+  <WRITE_HIGH><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion4-Opgave20\Lektion4-Opgave20\main.asm</FILE><LINE>65</LINE></WRITE_HIGH>
+  <WRITE_LOW><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion4-Opgave20\Lektion4-Opgave20\main.asm</FILE><LINE>72</LINE></WRITE_LOW>
+ </LABELS>
+</ASSEMBLER_INFO>

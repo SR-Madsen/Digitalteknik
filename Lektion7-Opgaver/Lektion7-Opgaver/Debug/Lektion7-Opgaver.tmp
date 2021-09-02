@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32A"</DEVICE>
+ <WORKING_DIR>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion7-Opgaver\Lektion7-Opgaver\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion7-Opgaver\Lektion7-Opgaver\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32adef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\M32ADEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion7-Opgaver\Lektion7-Opgaver\Debug\Lektion7-Opgaver.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lektion7-Opgaver.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lektion7-Opgaver.map</FILE>
+  <FILE>Lektion7-Opgaver.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INI><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion7-Opgaver\Lektion7-Opgaver\main.asm</FILE><LINE>7</LINE></INI>
+  <LOOP><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion7-Opgaver\Lektion7-Opgaver\main.asm</FILE><LINE>63</LINE></LOOP>
+ </LABELS>
+</ASSEMBLER_INFO>

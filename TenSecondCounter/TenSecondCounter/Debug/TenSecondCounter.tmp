@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32A"</DEVICE>
+ <WORKING_DIR>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\TenSecondCounter\TenSecondCounter\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\TenSecondCounter\TenSecondCounter\TenSecond.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32adef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\M32ADEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\TenSecondCounter\TenSecondCounter\Debug\TenSecondCounter.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>TenSecondCounter.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>TenSecondCounter.map</FILE>
+  <FILE>TenSecondCounter.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INI><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\TenSecondCounter\TenSecondCounter\TenSecond.asm</FILE><LINE>14</LINE></INI>
+  <START><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\TenSecondCounter\TenSecondCounter\TenSecond.asm</FILE><LINE>28</LINE></START>
+  <DELAY><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\TenSecondCounter\TenSecondCounter\TenSecond.asm</FILE><LINE>71</LINE></DELAY>
+  <LOOP1><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\TenSecondCounter\TenSecondCounter\TenSecond.asm</FILE><LINE>74</LINE></LOOP1>
+  <LOOP2><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\TenSecondCounter\TenSecondCounter\TenSecond.asm</FILE><LINE>75</LINE></LOOP2>
+  <LOOP3><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\TenSecondCounter\TenSecondCounter\TenSecond.asm</FILE><LINE>76</LINE></LOOP3>
+ </LABELS>
+</ASSEMBLER_INFO>

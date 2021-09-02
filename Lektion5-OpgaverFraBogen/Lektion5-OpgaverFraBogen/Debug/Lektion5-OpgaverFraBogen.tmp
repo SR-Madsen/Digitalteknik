@@ -1,0 +1,56 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32A"</DEVICE>
+ <WORKING_DIR>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32adef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\M32ADEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\Debug\Lektion5-OpgaverFraBogen.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lektion5-OpgaverFraBogen.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lektion5-OpgaverFraBogen.map</FILE>
+  <FILE>Lektion5-OpgaverFraBogen.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INI><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>14</LINE></INI>
+  <START><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>31</LINE></START>
+  <HIGHFUNC><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>39</LINE></HIGHFUNC>
+  <CALCHIGH><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>43</LINE></CALCHIGH>
+  <CARRY1><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>49</LINE></CARRY1>
+  <NUM8><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>124</LINE></NUM8>
+  <NUM7><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>118</LINE></NUM7>
+  <NUM6><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>112</LINE></NUM6>
+  <NUM5><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>106</LINE></NUM5>
+  <NUM4><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>100</LINE></NUM4>
+  <NUM3><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>94</LINE></NUM3>
+  <NUM2><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>88</LINE></NUM2>
+  <NUM1><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>82</LINE></NUM1>
+  <NUM0><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>76</LINE></NUM0>
+  <END1><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>128</LINE></END1>
+  <CALLFUNC><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>131</LINE></CALLFUNC>
+  <CALC><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>135</LINE></CALC>
+  <CARRY0><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>141</LINE></CARRY0>
+  <OUTPUT><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>145</LINE></OUTPUT>
+  <COUNT0><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>174</LINE></COUNT0>
+  <COUNT1><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>180</LINE></COUNT1>
+  <COUNT2><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>186</LINE></COUNT2>
+  <COUNT3><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>192</LINE></COUNT3>
+  <COUNT4><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>198</LINE></COUNT4>
+  <COUNT5><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>204</LINE></COUNT5>
+  <COUNT6><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>210</LINE></COUNT6>
+  <COUNT7><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>216</LINE></COUNT7>
+  <COUNT8><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>222</LINE></COUNT8>
+  <END><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion5-OpgaverFraBogen\Lektion5-OpgaverFraBogen\main.asm</FILE><LINE>226</LINE></END>
+ </LABELS>
+</ASSEMBLER_INFO>

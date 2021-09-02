@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32A"</DEVICE>
+ <WORKING_DIR>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Opgave2\Opgave2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Opgave2\Opgave2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32adef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\M32ADEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Opgave2\Opgave2\Debug\Opgave2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Opgave2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Opgave2.map</FILE>
+  <FILE>Opgave2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INI><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Opgave2\Opgave2\main.asm</FILE><LINE>14</LINE></INI>
+  <START><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Opgave2\Opgave2\main.asm</FILE><LINE>28</LINE></START>
+  <CASE0><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Opgave2\Opgave2\main.asm</FILE><LINE>59</LINE></CASE0>
+  <CASE1><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Opgave2\Opgave2\main.asm</FILE><LINE>65</LINE></CASE1>
+  <CASE2><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Opgave2\Opgave2\main.asm</FILE><LINE>72</LINE></CASE2>
+  <CASE3><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Opgave2\Opgave2\main.asm</FILE><LINE>79</LINE></CASE3>
+  <CASE4><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Opgave2\Opgave2\main.asm</FILE><LINE>86</LINE></CASE4>
+  <CASE5><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Opgave2\Opgave2\main.asm</FILE><LINE>93</LINE></CASE5>
+  <CASE6><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Opgave2\Opgave2\main.asm</FILE><LINE>100</LINE></CASE6>
+  <CASE7><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Opgave2\Opgave2\main.asm</FILE><LINE>107</LINE></CASE7>
+  <CASE8><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Opgave2\Opgave2\main.asm</FILE><LINE>113</LINE></CASE8>
+  <CASEE><FILE>C:\Users\sebas\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Opgave2\Opgave2\main.asm</FILE><LINE>120</LINE></CASEE>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32A"</DEVICE>
+ <WORKING_DIR>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion8-Opgave15\Lektion8-Opgave15\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion8-Opgave15\Lektion8-Opgave15\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32adef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\M32ADEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion8-Opgave15\Lektion8-Opgave15\Debug\Lektion8-Opgave15.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lektion8-Opgave15.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lektion8-Opgave15.map</FILE>
+  <FILE>Lektion8-Opgave15.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INI><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion8-Opgave15\Lektion8-Opgave15\main.asm</FILE><LINE>12</LINE></INI>
+  <INT_0><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion8-Opgave15\Lektion8-Opgave15\main.asm</FILE><LINE>92</LINE></INT_0>
+  <CHECK><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion8-Opgave15\Lektion8-Opgave15\main.asm</FILE><LINE>47</LINE></CHECK>
+  <FEMHZ><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion8-Opgave15\Lektion8-Opgave15\main.asm</FILE><LINE>53</LINE></FEMHZ>
+  <TOHZ><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion8-Opgave15\Lektion8-Opgave15\main.asm</FILE><LINE>65</LINE></TOHZ>
+  <ENHZ><FILE>C:\Users\Sebastian.SEBASTIANBÆRBAR\Google Drev\Universitet\2. semester\Digitalteknik\Atmel Studio-filer\Lektion8-Opgave15\Lektion8-Opgave15\main.asm</FILE><LINE>77</LINE></ENHZ>
+ </LABELS>
+</ASSEMBLER_INFO>
